@@ -1,5 +1,6 @@
 # starter-parcel-bootstrap-project
 Projet de démarrage parcel avec bootstrap
+https://getbootstrap.com/docs/5.2/getting-started/parcel/
 
 # Installation
 ``` 
